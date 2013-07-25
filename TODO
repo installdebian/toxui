@@ -1,0 +1,2 @@
+- Move duplicated code to individual component files
+- Create C++ models for contacts and chat
